@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Mark</h1>
 <h3 align="center">I am a former USAF and NSA linguist and Digital Network Intelligence ANalyst.</h3>
-<h3 align="center">Now, I am attending the College of Engineering and Computer Science at Univeristy of Central Florida.
+<h3 align="center">Now, I am attending the College of Engineering and Computer Science at Univeristy of Central Florida.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=markfutato&label=Profile%20views&color=0e75b6&style=flat" alt="markfutato" /> </p>
 
